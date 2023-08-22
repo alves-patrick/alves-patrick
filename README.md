@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate iOS Developer<br><br>🌱 I’m currently learning: TDD, Clean Architecture, Design Patterns, SOLID, MVP<br><br>📫 How to reach me: patrickalvesarts@gmail.com<br><br>
+A passionate iOS Developer<br><br>🌱 I’m currently learning: TDD, Clean Architecture, Design Patterns, SOLID, MVP<br><br>📫 How to reach me: patrickalves.dev@icloud.com<br><br>
 
 
 ## 🌐 Socials:
