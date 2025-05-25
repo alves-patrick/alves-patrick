@@ -71,3 +71,5 @@
 <img src="https://raw.githubusercontent.com/alves-patrick/alves-patrick/output/snake.svg" alt="Snake animation" />
 
 ###
+
+![snake gif](https://github.com/alves-patrick/alves-patrick/blob/output/github-contribution-grid-snake.gif)
