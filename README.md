@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é Patrick Alves, sou estudante de Engenharia de Software e desenvolvedor mobile.</h2>
+<h2 align="left">Olá 👋! Meu nome é Patrick Alves, cursando Engenharia de Software e desenvolvedor mobile.</h2>
 
 ###
 
