@@ -15,6 +15,13 @@
 ###
 
 <div align="left">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo"  />
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=rabbitmq" height="30" alt="rabbitmq logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=swift" height="30" alt="swift logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
