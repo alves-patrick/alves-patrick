@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é Patrick Alves, cursando Engenharia de Software. Sou um desenvolvedor apaixonado por criar soluções de back-end eficientes. Meu foco principal é Java, com ênfase em construção de APIs REST, microsserviços com Spring Boot e gerenciamento de bancos de dados.</h2>
+<h3 align="left">"Olá 👋! Meu nome é Patrick Alves, estudante de Engenharia de Software. Atualmente, meu foco é totalmente dedicado ao desenvolvimento Back-end com Java, especializando-me em tecnologias como Spring Boot, APIs REST, Docker, Kafka e bancos de dados SQL/NoSQL."</h3>
 
 ###
 
