@@ -7,7 +7,7 @@
   <table>
     <thead>
       <tr>
-        <th align="center">Badge</th>
+        <th align="center">Nível</th>
         <th align="left">Certificação & Status</th>
         <th align="left">Progresso Atual</th>
       </tr>
@@ -15,7 +15,7 @@
     <tbody>
       <tr>
         <td align="center">
-          <img src="https://raw.githubusercontent.com/workfall/aws-certification-badges/master/aws-certified-cloud-practitioner.png" width="80" alt="AWS Cloud Practitioner"/>
+          <img src="https://img.shields.io/badge/FOUNDATIONAL-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Foundational"/>
         </td>
         <td align="left">
           <strong>AWS Cloud Practitioner</strong><br>
@@ -27,7 +27,7 @@
       </tr>
       <tr>
         <td align="center">
-          <img src="https://raw.githubusercontent.com/workfall/aws-certification-badges/master/aws-certified-solutions-architect-associate.png" width="80" alt="AWS Solutions Architect Associate"/>
+          <img src="https://img.shields.io/badge/ASSOCIATE-D97706?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Associate"/>
         </td>
         <td align="left">
           <strong>AWS Solutions Architect (Assoc)</strong><br>
@@ -39,7 +39,7 @@
       </tr>
       <tr>
         <td align="center">
-          <img src="https://raw.githubusercontent.com/workfall/aws-certification-badges/master/aws-certified-solutions-architect-professional.png" width="80" alt="AWS Solutions Architect Professional"/>
+          <img src="https://img.shields.io/badge/PROFESSIONAL-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Professional"/>
         </td>
         <td align="left">
           <strong>AWS Solutions Architect (Pro)</strong><br>
@@ -51,10 +51,10 @@
       </tr>
       <tr>
         <td align="center">
-          <img src="https://raw.githubusercontent.com/workfall/aws-certification-badges/master/aws-certified-machine-learning-specialty.png" width="80" alt="AWS Machine Learning Specialty"/>
+          <img src="https://img.shields.io/badge/SPECIALTY-4F46E5?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Specialty"/>
         </td>
         <td align="left">
-          <strong>AWS Machine Learning (Specialty)</strong><br>
+          <strong>AWS Machine Learning (Spec)</strong><br>
           🎯 <em>Meta Final</em>
         </td>
         <td align="left">
@@ -92,48 +92,4 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="kubernetes logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgres logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=maven" height="30" alt="maven logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=hibernate" height="30" alt="hibernate logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=swift" height="30" alt="swift logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo" />
-  <img width="12" />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/patrickalvesdev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://x.com/PatrickCryp" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
-  </a>
-  <a href="mailto:patrickalvesarts@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
+  <img src="https://skillicons.dev/icons?i=postgres" height="30"
