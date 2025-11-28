@@ -15,7 +15,7 @@
     <tbody>
       <tr>
         <td align="center">
-          <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" width="80" alt="AWS Cloud Practitioner Badge"/>
+          <img src="https://raw.githubusercontent.com/workfall/aws-certification-badges/master/aws-certified-cloud-practitioner.png" width="80" alt="AWS Cloud Practitioner"/>
         </td>
         <td align="left">
           <strong>AWS Cloud Practitioner</strong><br>
@@ -27,7 +27,7 @@
       </tr>
       <tr>
         <td align="center">
-          <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb969d5a5e54a103c4b64.png" width="80" alt="AWS Solutions Architect Associate Badge"/>
+          <img src="https://raw.githubusercontent.com/workfall/aws-certification-badges/master/aws-certified-solutions-architect-associate.png" width="80" alt="AWS Solutions Architect Associate"/>
         </td>
         <td align="left">
           <strong>AWS Solutions Architect (Assoc)</strong><br>
@@ -39,7 +39,7 @@
       </tr>
       <tr>
         <td align="center">
-          <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Professional_badge.6720dbcc13344f69188449b9249767660205d15c.png" width="80" alt="AWS Solutions Architect Professional Badge"/>
+          <img src="https://raw.githubusercontent.com/workfall/aws-certification-badges/master/aws-certified-solutions-architect-professional.png" width="80" alt="AWS Solutions Architect Professional"/>
         </td>
         <td align="left">
           <strong>AWS Solutions Architect (Pro)</strong><br>
@@ -51,7 +51,7 @@
       </tr>
       <tr>
         <td align="center">
-          <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Machine-Learning-Specialty_badge.61e3d09a89c7d0186b24d78534b077360341763a.png" width="80" alt="AWS Machine Learning Specialty Badge"/>
+          <img src="https://raw.githubusercontent.com/workfall/aws-certification-badges/master/aws-certified-machine-learning-specialty.png" width="80" alt="AWS Machine Learning Specialty"/>
         </td>
         <td align="left">
           <strong>AWS Machine Learning (Specialty)</strong><br>
