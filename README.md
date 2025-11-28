@@ -1,95 +1,159 @@
 <h3 align="left">"Desenvolvedor Back-end focado no ecossistema Java. Especializado na construção de APIs REST e sistemas de mensageria, utilizando Spring Boot, Docker, Kafka e bancos de dados SQL/NoSQL."</h3>
 
+
+
 ###
+
+
 
 <div align="center">
-  <h3>☁️ AWS Certification Roadmap</h3>
-  <table>
-    <thead>
-      <tr>
-        <th align="center">Nível</th>
-        <th align="left">Certificação & Status</th>
-        <th align="left">Progresso Atual</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center">
-          <img src="https://img.shields.io/badge/FOUNDATIONAL-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Foundational"/>
-        </td>
-        <td align="left">
-          <strong>AWS Cloud Practitioner</strong><br>
-          🏃‍♂️ <em>Estudando</em>
-        </td>
-        <td align="left">
-          <img src="https://progress-bar.dev/40/?scale=100&title=progress&width=180&color=d97706&suffix=%" alt="Progress"/>
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="https://img.shields.io/badge/ASSOCIATE-D97706?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Associate"/>
-        </td>
-        <td align="left">
-          <strong>AWS Solutions Architect (Assoc)</strong><br>
-          📅 <em>Planejado</em>
-        </td>
-        <td align="left">
-          <img src="https://progress-bar.dev/0/?scale=100&title=progress&width=180&color=bababa&suffix=%" alt="Progress"/>
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="https://img.shields.io/badge/PROFESSIONAL-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Professional"/>
-        </td>
-        <td align="left">
-          <strong>AWS Solutions Architect (Pro)</strong><br>
-          🔒 <em>Futuro</em>
-        </td>
-        <td align="left">
-          <img src="https://progress-bar.dev/0/?scale=100&title=progress&width=180&color=bababa&suffix=%" alt="Progress"/>
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="https://img.shields.io/badge/SPECIALTY-4F46E5?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Specialty"/>
-        </td>
-        <td align="left">
-          <strong>AWS Machine Learning (Spec)</strong><br>
-          🎯 <em>Meta Final</em>
-        </td>
-        <td align="left">
-          <img src="https://progress-bar.dev/0/?scale=100&title=progress&width=180&color=bababa&suffix=%" alt="Progress"/>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alves-patrick&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=alves-patrick&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alves-patrick&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alves-patrick&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+
+  <img src="https://streak-stats.demolab.com?user=alves-patrick&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alves-patrick&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
 </div>
 
-###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3V2ZHNhNmM5Y3RlczVsMjgyNWRzcmQ3MTExaTNqem1zYmFpb2VmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 ###
+
+
+
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3V2ZHNhNmM5Y3RlczVsMjgyNWRzcmQ3MTExaTNqem1zYmFpb2VmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"  />
+
+
+
+###
+
+
 
 <div align="left">
+
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo" />
+
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo" />
+
+   <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo"  />
+
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="aws logo" />
+
+  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="aws logo"  />
+
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rabbitmq" height="30" alt="rabbitmq logo" />
+
+   <img src="https://skillicons.dev/icons?i=rabbitmq" height="30" alt="rabbitmq logo"  />
+
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo" />
+
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="kubernetes logo" />
+
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="kubernetes logo"  />
+
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="30"
+
+  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgres logo"  />
+
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
+
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
+
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=maven" height="30" alt="maven logo"  />
+
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo"  />
+
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=hibernate" height="30" alt="hibernate logo"  />
+
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=swift" height="30" alt="swift logo"  />
+
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
+
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
+
+  <img width="12" />
+
+
+
+  
+
+
+
+</div>
+
+
+
+###
+
+
+
+<div align="left">
+
+  <a href="https://www.linkedin.com/in/patrickalvesdev/" target="_blank">
+
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+
+  </a>
+
+  <a href="https://x.com/PatrickCryp" target="_blank">
+
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+
+  </a>
+
+  <a href="patrickalvesarts@gmail.com" target="_blank">
+
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+
+  </a>
+
+</div>
+
+
+
+###
+
+
+
+<br clear="both">
+
+
+
+<picture>
+
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+
+</picture>
+
+
+
+![snake gif](https://github.com/alves-patrick/alves-patrick/blob/output/github-contribution-grid-snake.gif)
