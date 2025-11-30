@@ -1,4 +1,6 @@
-<h3 align="left">"Desenvolvedor Back-end focado no ecossistema Java. Especializado na construção de APIs REST e sistemas de mensageria, utilizando Spring Boot, Docker, Kafka e bancos de dados SQL/NoSQL."</h3>
+<h3 align="left">
+  "Cloud Engineer & DevOps focado em AWS. Especializado em criar infraestrutura escalável e segura para aplicações de alta performance (Java/Spring Boot), utilizando Terraform, Docker e CI/CD."
+</h3>
 
 ###
 
