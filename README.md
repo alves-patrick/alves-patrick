@@ -2,7 +2,7 @@
   Software Engineer focado em Cloud & DevOps (AWS).
 </h3>
 <p align="left">
-  Especializado em criar infraestrutura escalável e segura para aplicações de alta performance (Java/Spring Boot), utilizando Terraform, Docker e CI/CD.
+  Software Engineer focado em Cloud & DevOps (AWS). Especializado em criar infraestrutura escalável e segura para aplicações de alta performance (Java/Spring Boot), utilizando Terraform, Docker e CI/CD.
 </p>
 
 ###
