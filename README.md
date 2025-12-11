@@ -11,7 +11,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=alves-patrick&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=alves-patrick&theme=dark" alt="Top Linguagens" />
+<img src="https://github-readme-stats.vercel.app/api?username=alves-patrick&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
 </div>
 
 ###
