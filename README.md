@@ -12,7 +12,7 @@
 <div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=alves-patrick&theme=chartreuse-dark&show_icons=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alves-patrick&layout=compact" alt="Estatísticas do GitHub" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alves-patrick&layout=donut" />
 </div>
 
 ###
