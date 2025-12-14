@@ -19,18 +19,28 @@
 
 <div align="center">
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo" />
+   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="aws logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="aws logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rabbitmq" height="30" alt="rabbitmq logo" />
+  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="kubernetes logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="bash logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="ansible logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="terraform logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="grafana logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="30" alt="rabbitmq logo" />
+  <img width="12" />  
   <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgres logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo" />
@@ -46,11 +56,7 @@
   <img src="https://skillicons.dev/icons?i=hibernate" height="30" alt="hibernate logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=swift" height="30" alt="swift logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo" />
-  <img width="12" />
+  <img width="12" />  
 </div>
 
 ###
