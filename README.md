@@ -27,13 +27,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="kubernetes logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="bash logo" />
+  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="ansible logo" />
+  <img src="https://skillicons.dev/icons?i=ansible" height="30" alt="ansible logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="terraform logo" />
+  <img src="https://skillicons.dev/icons?i=terraform" height="30" alt="terraform logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="grafana logo" />
+  <img src="https://skillicons.dev/icons?i=grafana" height="30" alt="grafana logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo" />
   <img width="12" />
