@@ -1,13 +1,5 @@
-# 👨🏽‍💻 Patrick Alves  <div align="right">
-  <a href="https://www.linkedin.com/in/patrickalvesdev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="mailto:patrickalvesarts@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-</div>
-<h3 align="left">
-  Software Engineer focado em Cloud & DevOps (AWS).
+# 👨🏽‍💻 Patrick Alves  
+
 </h3>
 <p align="left">
   Software Engineer focado em Cloud & DevOps (AWS). Especializado em criar infraestrutura escalável e segura para aplicações de alta performance (Java/Spring Boot), utilizando Terraform, Docker e CI/CD.
