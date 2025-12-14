@@ -10,8 +10,9 @@
 <div align="center">
 
 <div align="center">
+  
   <img src="https://streak-stats.demolab.com?user=alves-patrick&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-<img src="https://github-readme-stats.vercel.app/api?username=alves-patrick&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alves-patrick&layout=compact" alt="Estatísticas do GitHub" />
 </div>
 
 ###
