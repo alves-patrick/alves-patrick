@@ -14,7 +14,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3V2ZHNhNmM5Y3RlczVsMjgyNWRzcmQ3MTExaTNqem1zYmFpb2VmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 ###
 
