@@ -18,7 +18,7 @@
 ###
 
 <div align="center">
-  <img width="11" />
+  <img width="10" />
    <img src="https://skillicons.dev/icons?i=aws" height="30" alt="aws logo" />
   <img width="11" />
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo" />
@@ -56,7 +56,7 @@
   <img src="https://skillicons.dev/icons?i=hibernate" height="30" alt="hibernate logo" />
   <img width="11" />
   <img src="https://skillicons.dev/icons?i=swift" height="30" alt="swift logo" />
-  <img width="11" />  
+  <img width="10" />  
 </div>
 
 ###
