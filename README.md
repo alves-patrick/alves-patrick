@@ -37,8 +37,6 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo" />
-  <img width="10" />
   <img src="https://skillicons.dev/icons?i=rabbitmq" height="30" alt="rabbitmq logo" />
   <img width="10" />  
   <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgres logo" />
@@ -49,11 +47,7 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=maven" height="30" alt="maven logo" />
-  <img width="10" />
   <img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=hibernate" height="30" alt="hibernate logo" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=swift" height="30" alt="swift logo" />
   <img width="10" />  
