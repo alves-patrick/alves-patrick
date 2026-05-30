@@ -34,18 +34,16 @@ Meu diferencial está na visão de GreenOps e FinOps, garantindo que a tecnologi
 ---
 
 ## 🛠️ Stack Tecnológica
-![My Skills](https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,bash,terraform,grafana,prometheus,java,spring,rabbitmq,postgres,mongodb,postman,js,jenkins,githubactions,git)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,bash,terraform,grafana,prometheus,java,spring,rabbitmq,postgres,mongodb,postman,js,jenkins,githubactions,git" height="40" />
+</p>
 
 ---
 
 ## 📊 Estatísticas
-![Stats](https://github-readme-stats.vercel.app/api?username=alves-patrick&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alves-patrick&layout=compact&langs_count=7&theme=dracula)
-
----
-
-## 🐍 Atividade no GitHub
-![Snake](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alves-patrick&theme=dracula&hide_border=true" alt="GitHub Streak Stats" height="150" />
+</p>
 
 ---
 
