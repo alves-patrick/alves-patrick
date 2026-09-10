@@ -20,7 +20,6 @@ Meu diferencial está na visão de GreenOps e FinOps, garantindo que a tecnologi
 
 ### AWS
 ![Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) 
-![Developer Associate](https://img.shields.io/badge/AWS-Developer_Associate_In_Progress-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) 
 
 ### Calico
 ![Calico AWS Expert](https://img.shields.io/badge/Calico-AWS_Expert-22AD5C?style=flat-square&logo=kubernetes&logoColor=white) 
